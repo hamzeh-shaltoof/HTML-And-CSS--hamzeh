@@ -1447,13 +1447,11 @@ a {
   background-color: white;
   padding: 17px;
 }
-.videos .preview {
-  flex: 2;
-}
 
 .videos .list {
   border-top: 3px solid var(--color-container);
   border-left: 3px solid var(--color-container);
+  min-width: 300px;
 }
 
 .videos .list li {
